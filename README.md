@@ -43,6 +43,10 @@ When the command prompt opens, type in the file name you saved with the `.exe` e
 
 ![Run Program](https://github.com/Ahad1317/CompilerDesign--18CSC304J/assets/96586030/c5106e45-8719-4521-9578-d78ec34a02eb)
 
+<br>
+
+# 🚀 Running Scanner Programs
+
 ## 🌟 Conclusion
 
 That's it! You are now ready to run and test your own Flex programs on Windows. Enjoy coding your scanner projects!
