@@ -47,6 +47,42 @@ When the command prompt opens, type in the file name you saved with the `.exe` e
 
 # 🚀 Running Scanner Programs
 
+Save the file "name: file2.star.txt" you want to scan example:
+
+![image](https://github.com/Ahad1317/CompilerDesign--18CSC304J/assets/96586030/ecf1ff36-c2cc-4503-acca-258d10cb9d14)
+
+Now save the lex code in same folder as the scanner file, make sure the file name is same :
+
+![image](https://github.com/Ahad1317/CompilerDesign--18CSC304J/assets/96586030/72953d50-c00f-41df-84e9-167ab4aa566c)
+
+Follow above step 4 and step 5 to build and compile:
+output:
+
+![image](https://github.com/Ahad1317/CompilerDesign--18CSC304J/assets/96586030/9c65a07d-0408-4ce0-a611-61fdc7ad2e8f)
+
+<br>
+
+# 🚀 Running Bison Programs
+
+Create and compile lex file by clicking 1 (lex file compile) :
+
+![image](https://github.com/Ahad1317/CompilerDesign--18CSC304J/assets/96586030/e956cb30-6f87-46d5-badd-4e6729262e48)
+
+Create a new bison file with ".y" as extension
+
+![image](https://github.com/Ahad1317/CompilerDesign--18CSC304J/assets/96586030/f3fa0d88-6d03-465c-861f-59652d000a14)
+
+after entering bison code, click 3 (yacc compile) :
+
+![image](https://github.com/Ahad1317/CompilerDesign--18CSC304J/assets/96586030/a57bc726-65f1-47ba-8143-364391af783c)
+
+open cmd by clicking 6 (open cmd) and type in following commands :
+
+![image](https://github.com/Ahad1317/CompilerDesign--18CSC304J/assets/96586030/a2d44c74-0900-4323-bac9-4cf3a7f57c27)
+
+Enter your query and it will display the output.
+<br>
+
 ## 🌟 Conclusion
 
 That's it! You are now ready to run and test your own Flex programs on Windows. Enjoy coding your scanner projects!
